@@ -13,5 +13,3 @@ git branch -r
 ```
 git checkout -b 作成ブランチ名
 ```
-
-# テスト
