@@ -17,4 +17,5 @@ git checkout -b 作成ブランチ名
 ## ローカルへ取り込み
 ```
 git pull
+git pull --rebase origin master
 ```
