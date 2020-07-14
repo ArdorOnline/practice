@@ -13,3 +13,8 @@ git branch -r
 ```
 git checkout -b 作成ブランチ名
 ```
+
+## ローカルへ取り込み
+```
+git pull
+```
