@@ -14,6 +14,11 @@ git branch -r
 git checkout -b 作成ブランチ名
 ```
 
+## ブランチ削除
+```
+git branch -D 削除ブランチ名
+```
+
 ## ローカルへ取り込み
 ```
 git pull
