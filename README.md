@@ -24,3 +24,8 @@ git branch -D 削除ブランチ名
 git pull
 git pull --rebase origin master
 ```
+
+## rebase
+```
+git rebase -i コミットID
+```
