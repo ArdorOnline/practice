@@ -29,3 +29,8 @@ git pull --rebase origin master
 ```
 git rebase -i コミットID
 ```
+
+## リモートへ反映
+```
+git push
+```
