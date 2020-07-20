@@ -33,4 +33,5 @@ git rebase -i コミットID
 ## リモートへ反映
 ```
 git push
+git push -u origin master
 ```
