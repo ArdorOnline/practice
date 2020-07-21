@@ -35,3 +35,8 @@ git rebase -i コミットID
 git push
 git push -u origin master
 ```
+
+## リモート接続
+```
+git remote add origin git@github.com:ArodrOnline/リポジトリ名.git
+```
