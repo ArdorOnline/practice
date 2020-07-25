@@ -49,4 +49,5 @@ git remote add origin git@github.com:ArodrOnline/リポジトリ名.git
 ## ステージング
 ```
 git add -i
+git add .
 ```
