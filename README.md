@@ -51,4 +51,5 @@ git remote add origin git@github.com:ArodrOnline/リポジトリ名.git
 git add -i
 git add .
 git add -p
+git add -u
 ```
