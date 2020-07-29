@@ -52,4 +52,5 @@ git add -i
 git add .
 git add -p
 git add -u
+git add *.md
 ```
