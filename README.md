@@ -54,4 +54,5 @@ git add -p
 git add -u
 git add *.md
 git add *.md *.txt 
+git add -A
 ```
