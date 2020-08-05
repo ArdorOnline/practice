@@ -57,4 +57,5 @@ git add *.md *.txt
 git add -A
 git add -f
 git add [ディレクトリ名]
+git add [ファイル名]
 ```
