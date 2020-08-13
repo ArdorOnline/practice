@@ -61,3 +61,5 @@ git add [ファイル名]
 git add -v
 git add -n
 ```
+
+## リセット
