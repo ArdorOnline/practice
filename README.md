@@ -63,3 +63,6 @@ git add -n
 ```
 
 ## リセット
+```
+git reset
+```
