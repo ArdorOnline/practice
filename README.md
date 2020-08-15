@@ -65,4 +65,5 @@ git add -n
 ## リセット
 ```
 git reset
+git reset --hard
 ```
