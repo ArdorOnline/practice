@@ -66,4 +66,5 @@ git add -n
 ```
 git reset
 git reset --hard
+git reset --soft
 ```
