@@ -69,5 +69,6 @@ git reset --hard
 git reset --soft
 git reset --mixed
 
+git reset --hard HEAD^
 git reset --soft HEAD^
 ```
