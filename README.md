@@ -74,3 +74,5 @@ git reset --soft HEAD^
 git reset --mixed HEAD^
 git reset --hard ORIG_HEAD
 ```
+
+## 状態
