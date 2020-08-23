@@ -76,3 +76,6 @@ git reset --hard ORIG_HEAD
 ```
 
 ## 状態
+```
+git status
+```
