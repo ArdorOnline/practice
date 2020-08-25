@@ -80,3 +80,5 @@ git reset --hard ORIG_HEAD
 git status
 git status -s
 ```
+
+## ファイル削除
