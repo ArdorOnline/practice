@@ -82,3 +82,6 @@ git status -s
 ```
 
 ## ファイル削除
+```
+git rm --cached
+```
