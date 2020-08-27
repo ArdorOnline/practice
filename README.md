@@ -83,5 +83,6 @@ git status -s
 
 ## ファイル削除
 ```
+git rm ファイル名
 git rm --cached ファイル名
 ```
