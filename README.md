@@ -86,4 +86,5 @@ git status -s
 git rm ファイル名
 git rm --cached ファイル名
 git rm -f ファイル名
+git rm -r ディレクトリ
 ```
