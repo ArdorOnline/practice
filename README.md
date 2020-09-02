@@ -89,4 +89,5 @@ git rm -f ファイル名
 git rm -r ディレクトリ
 git rm -n ファイル名
 git rm -q
+git rm --pathspec-file-nul
 ```
