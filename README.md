@@ -80,6 +80,7 @@ git reset --hard ORIG_HEAD
 git status
 git status -s
 git status -b
+git status --show-stash
 ```
 
 ## ファイル削除
