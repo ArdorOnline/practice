@@ -81,6 +81,7 @@ git status
 git status -s
 git status -b
 git status --show-stash
+git status -v
 ```
 
 ## ファイル削除
