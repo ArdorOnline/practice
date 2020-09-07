@@ -83,6 +83,7 @@ git status -b
 git status --show-stash
 git status -v
 git status -u
+git status --porcelain
 ```
 
 ## ファイル削除
