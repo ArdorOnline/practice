@@ -84,6 +84,7 @@ git status --show-stash
 git status -v
 git status -u
 git status --porcelain
+git status --ignore-submodules
 ```
 
 ## ファイル削除
