@@ -85,6 +85,7 @@ git status -v
 git status -u
 git status --porcelain
 git status --ignore-submodules
+git status --ignored
 ```
 
 ## ファイル削除
