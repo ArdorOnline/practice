@@ -87,6 +87,7 @@ git status --porcelain
 git status --ignore-submodules
 git status --ignored
 git status -z
+git status --column
 ```
 
 ## ファイル削除
