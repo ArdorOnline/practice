@@ -88,6 +88,7 @@ git status --ignore-submodules
 git status --ignored
 git status -z
 git status --column
+git status --no-column
 ```
 
 ## ファイル削除
