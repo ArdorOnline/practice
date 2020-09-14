@@ -89,6 +89,7 @@ git status --ignored
 git status -z
 git status --column
 git status --no-column
+git status --ahead-behind
 ```
 
 ## ファイル削除
