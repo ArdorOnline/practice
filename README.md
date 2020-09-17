@@ -92,6 +92,7 @@ git status --no-column
 git status --ahead-behind
 git status --no-ahead-behind
 git status --renames
+git status --no-renames
 ```
 
 ## ファイル削除
