@@ -93,6 +93,7 @@ git status --ahead-behind
 git status --no-ahead-behind
 git status --renames
 git status --no-renames
+git status --find-renames
 ```
 
 ## ファイル削除
