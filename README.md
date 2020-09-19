@@ -80,6 +80,7 @@ git reset --hard ORIG_HEAD
 git status
 git status -s
 git status -b
+git status --branch
 git status --show-stash
 git status -v
 git status -u
