@@ -82,6 +82,7 @@ git status -s
 git status -b
 git status --branch
 git status --show-stash
+git status --long
 git status -v
 git status -u
 git status --porcelain
