@@ -84,6 +84,7 @@ git status --branch
 git status --show-stash
 git status --long
 git status -v
+git status --verbose
 git status -u
 git status --porcelain
 git status --ignore-submodules
