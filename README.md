@@ -86,6 +86,7 @@ git status --long
 git status -v
 git status --verbose
 git status -u
+git status --untracked-files
 git status --porcelain
 git status --ignore-submodules
 git status --ignored
