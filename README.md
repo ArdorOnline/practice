@@ -100,6 +100,9 @@ git status --no-renames
 git status --find-renames
 ```
 
+## ファイル差分
+
+
 ## ファイル削除
 ```
 git rm ファイル名
