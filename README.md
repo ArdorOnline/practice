@@ -101,7 +101,9 @@ git status --find-renames
 ```
 
 ## ファイル差分
-
+```
+git diff
+```
 
 ## ファイル削除
 ```
