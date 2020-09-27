@@ -105,6 +105,7 @@ git status --find-renames
 git diff
 git diff -p
 git diff -u
+git diff --patch
 ```
 
 ## ファイル削除
