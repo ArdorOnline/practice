@@ -107,6 +107,7 @@ git diff -p
 git diff -u
 git diff --patch
 git diff -s
+git diff --no-patch
 ```
 
 ## ファイル削除
