@@ -110,6 +110,7 @@ git diff -s
 git diff --no-patch
 git diff -U
 git diff --unified
+git diff --output
 ```
 
 ## ファイル削除
