@@ -111,6 +111,7 @@ git diff --no-patch
 git diff -U
 git diff --unified
 git diff --output
+git diff --output-indicator-new
 ```
 
 ## ファイル削除
