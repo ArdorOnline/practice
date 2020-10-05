@@ -112,6 +112,7 @@ git diff -U
 git diff --unified
 git diff --output
 git diff --output-indicator-new
+git diff --output-indicator-old
 ```
 
 ## ファイル削除
