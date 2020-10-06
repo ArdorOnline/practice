@@ -113,6 +113,7 @@ git diff --unified
 git diff --output
 git diff --output-indicator-new
 git diff --output-indicator-old
+git diff --output-indicator-context
 ```
 
 ## ファイル削除
