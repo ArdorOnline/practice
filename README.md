@@ -115,6 +115,7 @@ git diff --output-indicator-new
 git diff --output-indicator-old
 git diff --output-indicator-context
 git diff --raw
+git diff --patch-with-raw
 ```
 
 ## ファイル削除
