@@ -119,6 +119,7 @@ git diff --patch-with-raw
 git diff --indent-heuristic
 git diff --no-indent-heuristic
 git diff --minimal
+git diff --patience
 ```
 
 ## ファイル削除
