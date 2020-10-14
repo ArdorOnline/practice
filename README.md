@@ -121,6 +121,7 @@ git diff --no-indent-heuristic
 git diff --minimal
 git diff --patience
 git diff --histogram
+git diff --anchored
 ```
 
 ## ファイル削除
