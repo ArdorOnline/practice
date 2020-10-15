@@ -122,6 +122,7 @@ git diff --minimal
 git diff --patience
 git diff --histogram
 git diff --anchored
+git diff --diff-algorithm={patience|minimal|histogram|myers}
 ```
 
 ## ファイル削除
