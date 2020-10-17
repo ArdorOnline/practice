@@ -124,6 +124,7 @@ git diff --histogram
 git diff --anchored
 git diff --diff-algorithm={patience|minimal|histogram|myers}
 git diff --stat[=<width>[,<name-width>[,<count>]]]
+git diff --compact-summary
 ```
 
 ## ファイル削除
