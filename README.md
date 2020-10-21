@@ -128,6 +128,7 @@ git diff --compact-summary
 git diff --numstat
 git diff --shortstat
 git diff -X[<param1,param2,…​>]
+git diff --dirstat[=<param1,param2,…​>]
 ```
 
 ## ファイル削除
