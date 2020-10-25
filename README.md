@@ -131,6 +131,7 @@ git diff -X[<param1,param2,…​>]
 git diff --dirstat[=<param1,param2,…​>]
 git diff --cumulative
 git diff --dirstat-by-file[=<param1,param2>…​]
+git diff --summary
 ```
 
 ## ファイル削除
