@@ -136,6 +136,7 @@ git diff --patch-with-stat
 git diff -z
 git diff --name-only
 git diff --name-status
+git diff --submodule[=<format>]
 ```
 
 ## ファイル削除
